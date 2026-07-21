@@ -7,8 +7,7 @@ auf GitHub Pages.
 ## Enthaltene Dateien
 
 ```
-index.html          Die Seite selbst
-style.css            Gestaltung
+index.html          Die Seite selbst (HTML + CSS in einer Datei)
 robots.txt            Bittet Suchmaschinen, die Seite nicht zu listen
 downloads/
   README.txt          Platzhalter, hier kommen deine PDFs rein
